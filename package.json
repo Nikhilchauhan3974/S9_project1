@@ -8,6 +8,10 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    {
+  "homepage": "https://nikhilchauhan3974.github.io/S9_project1"
+}
+
   },
   "dependencies": {
     "react": "^19.2.0",
